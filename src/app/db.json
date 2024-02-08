@@ -1,0 +1,176 @@
+{
+  "movies": [
+    {
+      "id": "0",
+      "name": "The shinning",
+      "time": "13:30 PM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "2",
+      "name": "Monsters Inc.",
+      "time": "15:00 PM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "3",
+      "name": "Luca",
+      "time": "10:00 AM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "4",
+      "name": "Up!",
+      "time": "14:30 PM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "5",
+      "name": "Interestestelar",
+      "time": "19:50 PM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "6",
+      "name": "Monster House",
+      "time": "17:50 PM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "name": "Luca",
+      "time": "10:00 AM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "4",
+      "name": "Up!",
+      "time": "14:30 PM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "3",
+      "name": "Luca",
+      "time": "10:00 AM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "0",
+      "name": "The shinning",
+      "time": "13:30 PM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "3",
+      "name": "Luca",
+      "time": "10:00 AM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "4",
+      "name": "Up!",
+      "time": "14:30 PM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "4",
+      "name": "Up!",
+      "time": "14:30 PM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "0",
+      "name": "The shinning",
+      "time": "13:30 PM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "3",
+      "name": "Luca",
+      "time": "10:00 AM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "3",
+      "name": "Luca",
+      "time": "10:00 AM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "2",
+      "name": "Monsters Inc.",
+      "time": "15:00 PM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "0",
+      "name": "The shinning",
+      "time": "13:30 PM",
+      "location": "Cine Garza Sada",
+      "tickets": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    }
+  ],
+  "candies": [
+    {
+      "id": "0",
+      "name": "Palomitas Clasicas",
+      "items": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "1",
+      "name": "Coca-cola",
+      "items": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "2",
+      "name": "Chocolates",
+      "items": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    },
+    {
+      "id": "3",
+      "name": "Skitless",
+      "items": 50,
+      "img": "https://source.unsplash.com/random/200x200?sig=1"
+    }
+  ]
+}

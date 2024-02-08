@@ -1,0 +1,34 @@
+<div class="tickets-main-container">
+  <h3>Cartelera</h3>
+  <div class="cards-container">
+    <div *ngFor="let movie of movieList">
+      <div class="card" style="width: 18rem">
+        <img
+          src="https://source.unsplash.com/random/200x200?sig=1"
+          class="card-img-top"
+          alt="..."
+        />
+        <div class="card-body">
+          <h4>{{ movie.name }}</h4>
+          <p>{{ movie.time }}</p>
+          <p>{{ movie.location }}</p>
+          <p class="card-text">
+            1st Some quick example text to build on… the card title and make up
+            the bulk of the card's content.
+          </p>
+          <button
+            type="button"
+            class="btn btn-outline-primary"
+            data-bs-toggle="offcanvas"
+            href="#offcanvasExample"
+            role="button"
+            aria-controls="offcanvasExample"
+            (click)="postMovies(movie)"
+          >
+            Comprar boletos
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

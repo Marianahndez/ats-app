@@ -1,0 +1,13 @@
+.candies-main-container {
+  padding: 2rem 3rem;
+  h3 {
+    padding-bottom: 2rem;
+    text-decoration: underline;
+  }
+  .cards-container {
+    display: grid;
+    grid-auto-columns: minmax(15rem, auto);
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    gap: 5rem;
+  }
+}
