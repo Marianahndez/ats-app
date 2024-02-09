@@ -16,8 +16,8 @@
     ></button>
   </div>
   <div class="offcanvas-body">
-    <div *ngFor="let items of cartList">
-      <h4>{{ items.name }}</h4>
+    <div *ngFor="let movie of moviesToCart$ | async">
+      <h4>{{ movie.name }}</h4>
     </div>
   </div>
 
